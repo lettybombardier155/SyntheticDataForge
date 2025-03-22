@@ -1,0 +1,23 @@
+
+---
+
+### **2. 37_HttpResponseScanner**  
+**Description:**  
+A CLI tool for checking response codes and latency of multiple HTTP endpoints.
+
+#### **README.md**
+```markdown
+# HttpResponseScanner - API Uptime Monitor
+
+HttpResponseScanner pings endpoints and displays HTTP response codes and timings.
+
+## Features
+- Track multiple URLs  
+- Logs status code and latency  
+- Simple output interface  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_HttpResponseScanner.git
+cd 37_HttpResponseScanner
+python monitor.py
