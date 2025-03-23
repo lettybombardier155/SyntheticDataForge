@@ -1,0 +1,23 @@
+
+---
+
+### **3. 37_LogSentinelWatcher**  
+**Description:**  
+A script for parsing and analyzing system/application logs.
+
+#### **README.md**
+```markdown
+# LogSentinelWatcher - Log File Event Detector
+
+LogSentinelWatcher identifies critical issues and patterns in system and app logs.
+
+## Features
+- Detects repeated log messages  
+- Highlights error frequencies  
+- Works with syslog, auth.log, etc.  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LogSentinelWatcher.git
+cd 37_LogSentinelWatcher
+python analyze.py /var/log/syslog
