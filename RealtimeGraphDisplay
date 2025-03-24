@@ -1,0 +1,23 @@
+
+---
+
+### **4. 37_RealtimeGraphDisplay**  
+**Description:**  
+A Python-based real-time chart viewer for incoming numerical data.
+
+#### **README.md**
+```markdown
+# RealtimeGraphDisplay - Live Chart Visualization Tool
+
+RealtimeGraphDisplay creates animated charts for data streams using Matplotlib.
+
+## Features
+- Auto-updating line graph  
+- Simulated or live data input  
+- Pause/resume visualization  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_RealtimeGraphDisplay.git
+cd 37_RealtimeGraphDisplay
+python visualize.py
